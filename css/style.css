@@ -844,7 +844,6 @@ html::-webkit-scrollbar-thump{
         font-size: 40px;
         text-shadow: none;
         letter-spacing: 1.3px;
-        -webkit-text-stroke: medium;
     }
     .home .container  p{
     font-size: 7px;
