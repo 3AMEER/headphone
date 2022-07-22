@@ -748,7 +748,7 @@ html::-webkit-scrollbar-thump{
         transform: translateY(-90px);
     }
     .Flagship .container{
-        grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     }
 
     .details{
@@ -857,7 +857,7 @@ html::-webkit-scrollbar-thump{
         padding: 40px
     }
     .best .swiper-slide{
-        gap: 140px;
+        gap: 110px;
     } 
 
     .details{
